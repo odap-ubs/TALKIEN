@@ -36,7 +36,7 @@ Press load data
 
 After clicking load data, results will be displayed.
 
-<>
+<img src"https://user-images.githubusercontent.com/49268378/87046490-8f18b500-c1f9-11ea-86fb-ad869e71346f.png" width="250" height="250">
 
 3. Choose network type. Users are allowed to compute interactions between lists (the so-called crosstalk) or interactions between and within lists.
 
@@ -63,25 +63,25 @@ After clicking load data, results will be displayed.
 
 By default TALKIEN computes descriptive, topological network statistics and renders network plots. However, users are able to perform a functional analysis based on Reactome Pathway Database by selecting “Enrichment” tab, on top of the page. This may take between 10 seconds to 1 minute depending on the complexity of the lists.
 
-<>
+<img src="https://user-images.githubusercontent.com/49268378/87046520-9b047700-c1f9-11ea-8c70-21476dce3b6a.png" width="100" height="50">
 
 All results could be downloaded by clicking donwload buttons on the bottom of the tabs. Network plots could be downloaded first as html objects. Additionally, there is a black button to export the image to a png format once the downloaded html has been opened. 
 
-<>
+<img src="https://user-images.githubusercontent.com/49268378/87046925-18c88280-c1fa-11ea-9bbd-f04d84545737.png" width="350" height="300">
 
 MAIN TAB: PLOTS
 
 Network will be displayed and able to be downloaded as an interactive html object. The size of the node is proportional to its degree and the width of the edge is proportional to its interaction score. In bipartite mode. There is the option of changing network orientation (UP-DOWN or LEFT-RIGHT) and changing the groups (bipartite network by lists or by location)
 
-<>
+<img src="https://user-images.githubusercontent.com/49268378/87046571-a9529300-c1f9-11ea-96f5-be59aed316a9.png" width="250" height="200">
 
 In addition, users can select one node by a selection list at top-left of the plot
 
-<>
+<img src="https://user-images.githubusercontent.com/49268378/87046600-b1123780-c1f9-11ea-815d-c0927d8410b9.png" width="150" heigth="250">
 
 Or by clicking on any node. If the selection is done by the latter option, a table with the node’s belonging pathways will be displayed. It shows pathway ID, pathway name and a link to see more in-depth pathway properties on reactome website. 
 
-<>
+<img src="https://user-images.githubusercontent.com/49268378/87046632-b8d1dc00-c1f9-11ea-92f3-075524af383d.png" width="250" heigth="150">
 
 
 NETWORK PARAMETERS TAB
