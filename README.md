@@ -10,5 +10,13 @@ User is required to input two list of genes/proteins. Each of them belongs to on
 
 These lists may derive from a variety of experiments and could be measured with diverse transcriptomics (such as RNA-seq, microarray or scRNA-seq) and proteomics approaches (mass spectrometry or protein chips among others). For example, co-culture experiments of cancer cells with/without stromal cells, or cells growing under the stimulation of supernatant media collected from immune cells cultures. Lists from the example came from the following transcriptomic experiment: 
 
+<img src="https://user-images.githubusercontent.com/49268378/87044646-216b8980-c1f7-11ea-840a-53570c701504.png" witdh="350" height="350">
+
+PLOT NETWORKS
+
+The basic elements of the networks are nodes (Proteins) and edges (interactions between them) that connect nodes within the network. Connections are defined according to a score based on certain evidence of interaction.
+User options.
+
+    Upload lists Input List #1 and Input List #2. Upload files with header and one column lenght. Otherwise column #1 will be used as reference. Both files must have the same annotation: entrez ID, ensembl ID, gene symbol or uniprot ID are allowed.
 
 
