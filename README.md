@@ -18,5 +18,9 @@ The basic elements of the networks are nodes (Proteins) and edges (interactions 
 User options.
 
     Upload lists Input List #1 and Input List #2. Upload files with header and one column lenght. Otherwise column #1 will be used as reference. Both files must have the same annotation: entrez ID, ensembl ID, gene symbol or uniprot ID are allowed.
+<img src="https://user-images.githubusercontent.com/49268378/87044850-68f21580-c1f7-11ea-901f-55e3175934d5.png" width="350" height="150">
+
+There is a preloaded example with two lists. By selecting “Load example data” option, an example network will be displayed. 
+
 
 
