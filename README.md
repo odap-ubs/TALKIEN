@@ -31,7 +31,7 @@ There is a preloaded example with two lists. By selecting â€œLoad example dataâ€
 - Ensembl
 - Uniprot
 
-<img src="https://user-images.githubusercontent.com/49268378/87045210-e74eb780-c1f7-11ea-8939-699b63014aee.png" width="150" height="100">
+<img src="https://user-images.githubusercontent.com/49268378/87045210-e74eb780-c1f7-11ea-8939-699b63014aee.png" width="200" height="160">
 
 Press load data
 
