@@ -48,7 +48,7 @@ After clicking load data, results will be displayed.
 
 4. Select score threshold. That is the minimum interaction value to link two proteins. Only protein-protein interaction with scores higher than chosen will be shown in the network. Score threshold is based on STRING’s combined score. 
 
-<img src="https://user-images.githubusercontent.com/49268378/87045626-6348ff80-c1f8-11ea-9142-63735224f289.png" width="250" heigth="150">
+<img src="https://user-images.githubusercontent.com/49268378/87045626-6348ff80-c1f8-11ea-9142-63735224f289.png" width="450" heigth="200">
 
 5. Choose graphical layout. Users are allowed to choose between 5 different layouts.
 
@@ -58,7 +58,7 @@ After clicking load data, results will be displayed.
 - DH layout (Davidson-Harel algorithm). -only for network type whole-.
 - Bipartite layout. -only for network type crosstalk-.
 
-<img src="https://user-images.githubusercontent.com/49268378/87045880-b15e0300-c1f8-11ea-9ea2-10fd71ac9d48.png" width="150" height="150">
+<img src="https://user-images.githubusercontent.com/49268378/87045880-b15e0300-c1f8-11ea-9ea2-10fd71ac9d48.png" width="150" height="125">
 
 6. Enrichment Analysis
 
