@@ -64,11 +64,11 @@ After clicking load data, results will be displayed.
 
 By default TALKIEN computes descriptive, topological network statistics and renders network plots. However, users are able to perform a functional analysis based on Reactome Pathway Database by selecting “Enrichment” tab, on top of the page. This may take between 10 seconds to 1 minute depending on the complexity of the lists.
 
-<img src="https://user-images.githubusercontent.com/49268378/87046520-9b047700-c1f9-11ea-8c70-21476dce3b6a.png" width="100" height="50">
+<img src="https://user-images.githubusercontent.com/49268378/87046520-9b047700-c1f9-11ea-8c70-21476dce3b6a.png" width="150" height="50">
 
 All results could be downloaded by clicking donwload buttons on the bottom of the tabs. Network plots could be downloaded first as html objects. Additionally, there is a black button to export the image to a png format once the downloaded html has been opened. 
 
-<img src="https://user-images.githubusercontent.com/49268378/87046925-18c88280-c1fa-11ea-9bbd-f04d84545737.png" width="450" height="400">
+<img src="https://user-images.githubusercontent.com/49268378/87046925-18c88280-c1fa-11ea-9bbd-f04d84545737.png" width="400" height="300">
 
 MAIN TAB: PLOTS
 
