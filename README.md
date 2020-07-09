@@ -31,13 +31,13 @@ There is a preloaded example with two lists. By selecting â€œLoad example dataâ€
 - Ensembl
 - Uniprot
 
-<img src="https://user-images.githubusercontent.com/49268378/87045210-e74eb780-c1f7-11ea-8939-699b63014aee.png" width="200" height="160">
+<img src="https://user-images.githubusercontent.com/49268378/87045210-e74eb780-c1f7-11ea-8939-699b63014aee.png" width="175" height="140">
 
 Press load data
 
 After clicking load data, results will be displayed.
 
-<img src="https://user-images.githubusercontent.com/49268378/87046490-8f18b500-c1f9-11ea-86fb-ad869e71346f.png" width="150" height="75">
+<img src="https://user-images.githubusercontent.com/49268378/87046490-8f18b500-c1f9-11ea-86fb-ad869e71346f.png" width="150" height="50">
 
 3. Choose network type. Users are allowed to compute interactions between lists (the so-called crosstalk) or interactions between and within lists.
 
