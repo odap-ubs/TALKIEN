@@ -37,14 +37,14 @@ Press load data
 
 After clicking load data, results will be displayed.
 
-<img src="https://user-images.githubusercontent.com/49268378/87046490-8f18b500-c1f9-11ea-86fb-ad869e71346f.png" width="150" height="50">
+<img src="https://user-images.githubusercontent.com/49268378/87046490-8f18b500-c1f9-11ea-86fb-ad869e71346f.png" width="150" height="40">
 
 3. Choose network type. Users are allowed to compute interactions between lists (the so-called crosstalk) or interactions between and within lists.
 
 - whole –> get interactions from list 1 to list1, from list2 to list2, from list1 to list2, and viceversa
 - crosstalk –> get interactions only from list1 to list2 and viceversa
 
-<img src="https://user-images.githubusercontent.com/49268378/87045423-27ae3580-c1f8-11ea-8030-d618b0b81860.png" width="150" height="100">
+<img src="https://user-images.githubusercontent.com/49268378/87045423-27ae3580-c1f8-11ea-8030-d618b0b81860.png" width="150" height="75">
 
 4. Select score threshold. That is the minimum interaction value to link two proteins. Only protein-protein interaction with scores higher than chosen will be shown in the network. Score threshold is based on STRING’s combined score. 
 
