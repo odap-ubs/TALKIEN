@@ -74,7 +74,7 @@ MAIN TAB: PLOTS
 
 Network will be displayed and able to be downloaded as an interactive html object. The size of the node is proportional to its degree and the width of the edge is proportional to its interaction score. In bipartite mode. There is the option of changing network orientation (UP-DOWN or LEFT-RIGHT) and changing the groups (bipartite network by lists or by location)
 
-<img src="https://user-images.githubusercontent.com/49268378/87046571-a9529300-c1f9-11ea-96f5-be59aed316a9.png" width="250" height="200">
+<img src="https://user-images.githubusercontent.com/49268378/87046571-a9529300-c1f9-11ea-96f5-be59aed316a9.png" width="250" height="150">
 
 In addition, users can select one node by a selection list at top-left of the plot
 
