@@ -68,7 +68,7 @@ By default TALKIEN computes descriptive, topological network statistics and rend
 
 All results could be downloaded by clicking donwload buttons on the bottom of the tabs. Network plots could be downloaded first as html objects. Additionally, there is a black button to export the image to a png format once the downloaded html has been opened. 
 
-<img src="https://user-images.githubusercontent.com/49268378/87046925-18c88280-c1fa-11ea-9bbd-f04d84545737.png" width="350" height="300">
+<img src="https://user-images.githubusercontent.com/49268378/87046925-18c88280-c1fa-11ea-9bbd-f04d84545737.png" width="450" height="400">
 
 MAIN TAB: PLOTS
 
