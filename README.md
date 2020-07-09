@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/49268378/87043206-ff710780-c1f4-11ea-81c5-36523124ddf0.jpg" width="500" height="100"> 
+<img src="https://user-images.githubusercontent.com/49268378/87043206-ff710780-c1f4-11ea-81c5-36523124ddf0.jpg" width="550" height="150"> 
 TALKIEN - crossTALK bIpartite Network -
 
 You can plot customized networks, obtain network parameters and enrichment analysis.
@@ -82,7 +82,7 @@ In addition, users can select one node by a selection list at top-left of the pl
 
 Or by clicking on any node. If the selection is done by the latter option, a table with the node’s belonging pathways will be displayed. It shows pathway ID, pathway name and a link to see more in-depth pathway properties on reactome website. 
 
-<img src="https://user-images.githubusercontent.com/49268378/87046632-b8d1dc00-c1f9-11ea-92f3-075524af383d.png" width="650" heigth="450">
+<img src="https://user-images.githubusercontent.com/49268378/87046632-b8d1dc00-c1f9-11ea-92f3-075524af383d.png" width="850" heigth="750">
 
 
 NETWORK PARAMETERS TAB
