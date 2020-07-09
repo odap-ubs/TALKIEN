@@ -17,10 +17,22 @@ PLOT NETWORKS
 The basic elements of the networks are nodes (Proteins) and edges (interactions between them) that connect nodes within the network. Connections are defined according to a score based on certain evidence of interaction.
 User options.
 
-    Upload lists Input List #1 and Input List #2. Upload files with header and one column lenght. Otherwise column #1 will be used as reference. Both files must have the same annotation: entrez ID, ensembl ID, gene symbol or uniprot ID are allowed.
+1. Upload lists Input List #1 and Input List #2. Upload files with header and one column lenght. Otherwise column #1 will be used as reference. Both files must have the same annotation: entrez ID, ensembl ID, gene symbol or uniprot ID are allowed.
 <img src="https://user-images.githubusercontent.com/49268378/87044850-68f21580-c1f7-11ea-901f-55e3175934d5.png" width="350" height="150">
 
 There is a preloaded example with two lists. By selecting “Load example data” option, an example network will be displayed. 
+<img src="https://user-images.githubusercontent.com/49268378/87045008-9fc82b80-c1f7-11ea-9be9-db4b6ec6a971.png" width="400" height="50">
+
+
+2. Choose annotation type.
+
+- Gene Symbol
+- Entrez
+- Ensembl
+- Uniprot
+
+
+
 
 
 
