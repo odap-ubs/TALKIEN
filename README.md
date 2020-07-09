@@ -31,20 +31,24 @@ There is a preloaded example with two lists. By selecting “Load example data�
 - Ensembl
 - Uniprot
 
-<img src="https://user-images.githubusercontent.com/49268378/87045210-e74eb780-c1f7-11ea-8939-699b63014aee.png" width="350" height="250">
+<img src="https://user-images.githubusercontent.com/49268378/87045210-e74eb780-c1f7-11ea-8939-699b63014aee.png" width="250" height="150">
 
 3. Choose network type. Users are allowed to compute interactions between lists (the so-called crosstalk) or interactions between and within lists.
 
 - whole –> get interactions from list 1 to list1, from list2 to list2, from list1 to list2, and viceversa
 - crosstalk –> get interactions only from list1 to list2 and viceversa
 
-<img src="https://user-images.githubusercontent.com/49268378/87045423-27ae3580-c1f8-11ea-8030-d618b0b81860.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/49268378/87045423-27ae3580-c1f8-11ea-8030-d618b0b81860.png" width="150" height="150">
 
 4. Select score threshold. That is the minimum interaction value to link two proteins. Only protein-protein interaction with scores higher than chosen will be shown in the network. Score threshold is based on STRING’s combined score. 
 
+<img src="https://user-images.githubusercontent.com/49268378/87045626-6348ff80-c1f8-11ea-9142-63735224f289.png" width="150" heigth="150">
 
+5. Choose graphical layout. Users are allowed to choose between 5 different layouts.
 
-
-
-
+- Circular layout.
+- Force-directed layout (Fruchterman Reingold algorithm).
+- Sphere layout.
+- DH layout (Davidson-Harel algorithm). -only for network type whole-.
+- Bipartite layout. -only for network type crosstalk-.
 
