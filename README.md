@@ -22,7 +22,7 @@ User options.
 <img src="https://user-images.githubusercontent.com/49268378/87044850-68f21580-c1f7-11ea-901f-55e3175934d5.png" width="350" height="150">
 
 There is a preloaded example with two lists. By selecting “Load example data” option, an example network will be displayed. 
-<img src="https://user-images.githubusercontent.com/49268378/87045008-9fc82b80-c1f7-11ea-9be9-db4b6ec6a971.png" width="150" height="75">
+<img src="https://user-images.githubusercontent.com/49268378/87045008-9fc82b80-c1f7-11ea-9be9-db4b6ec6a971.png" width="150" height="50">
 
 2. Choose annotation type.
 
