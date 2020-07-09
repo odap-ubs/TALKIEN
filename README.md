@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/49268378/87043206-ff710780-c1f4-11ea-81c5-36523124ddf0.jpg" width="400" height="100"> 
+<img src="https://user-images.githubusercontent.com/49268378/87043206-ff710780-c1f4-11ea-81c5-36523124ddf0.jpg" width="500" height="150"> 
 TALKIEN - crossTALK bIpartite Network -
 
 You can plot customized networks, obtain network parameters and enrichment analysis.
@@ -6,7 +6,7 @@ INPUT
 
 User is required to input two list of genes/proteins. Each of them belongs to one of the two entities the user in interested in. To decipher the molecular crosstalk between them, TALKIEN only uses secreted and membrane receptors proteins. The hypothesis behind is that cellular communication could be partially explained by physical interactions between receptor proteins and their specific ligands. Specifically in paracrine signalling, receptors are activated by ligands proteins secreted by another cell. However, TALKIEN also allow users to visualize pathways downstream receptors in the network (see below): 
 
-<img src="https://user-images.githubusercontent.com/49268378/87044332-ac984f80-c1f6-11ea-9c6b-1c2189a5a01f.jpeg" width="350" height="150">
+<img src="https://user-images.githubusercontent.com/49268378/87044332-ac984f80-c1f6-11ea-9c6b-1c2189a5a01f.jpeg" width="450" height="150">
 
 These lists may derive from a variety of experiments and could be measured with diverse transcriptomics (such as RNA-seq, microarray or scRNA-seq) and proteomics approaches (mass spectrometry or protein chips among others). For example, co-culture experiments of cancer cells with/without stromal cells, or cells growing under the stimulation of supernatant media collected from immune cells cultures. Lists from the example came from the following transcriptomic experiment: 
 
@@ -18,6 +18,7 @@ The basic elements of the networks are nodes (Proteins) and edges (interactions 
 User options.
 
 1. Upload lists Input List #1 and Input List #2. Upload files with header and one column lenght. Otherwise column #1 will be used as reference. Both files must have the same annotation: entrez ID, ensembl ID, gene symbol or uniprot ID are allowed.
+
 <img src="https://user-images.githubusercontent.com/49268378/87044850-68f21580-c1f7-11ea-901f-55e3175934d5.png" width="350" height="150">
 
 There is a preloaded example with two lists. By selecting “Load example data” option, an example network will be displayed. 
@@ -36,7 +37,7 @@ Press load data
 
 After clicking load data, results will be displayed.
 
-<img src"https://user-images.githubusercontent.com/49268378/87046490-8f18b500-c1f9-11ea-86fb-ad869e71346f.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/49268378/87046490-8f18b500-c1f9-11ea-86fb-ad869e71346f.png" width="250" height="250">
 
 3. Choose network type. Users are allowed to compute interactions between lists (the so-called crosstalk) or interactions between and within lists.
 
@@ -81,7 +82,7 @@ In addition, users can select one node by a selection list at top-left of the pl
 
 Or by clicking on any node. If the selection is done by the latter option, a table with the node’s belonging pathways will be displayed. It shows pathway ID, pathway name and a link to see more in-depth pathway properties on reactome website. 
 
-<img src="https://user-images.githubusercontent.com/49268378/87046632-b8d1dc00-c1f9-11ea-92f3-075524af383d.png" width="250" heigth="150">
+<img src="https://user-images.githubusercontent.com/49268378/87046632-b8d1dc00-c1f9-11ea-92f3-075524af383d.png" width="450" heigth="250">
 
 
 NETWORK PARAMETERS TAB
