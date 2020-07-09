@@ -1,4 +1,4 @@
-![talkien](https://user-images.githubusercontent.com/49268378/87043206-ff710780-c1f4-11ea-81c5-36523124ddf0.jpg) - crossTALK bIpartitE Network -
+![talkien](https://user-images.githubusercontent.com/49268378/87043206-ff710780-c1f4-11ea-81c5-36523124ddf0.jpg | width=100)
 
 You can plot customized networks, obtain network parameters and enrichment analysis.
 INPUT
