@@ -44,11 +44,11 @@ After clicking load data, results will be displayed.
 - whole –> get interactions from list 1 to list1, from list2 to list2, from list1 to list2, and viceversa
 - crosstalk –> get interactions only from list1 to list2 and viceversa
 
-<img src="https://user-images.githubusercontent.com/49268378/87045423-27ae3580-c1f8-11ea-8030-d618b0b81860.png" width="150" height="100">
+<img src="https://user-images.githubusercontent.com/49268378/87045423-27ae3580-c1f8-11ea-8030-d618b0b81860.png" width="150" height="125">
 
 4. Select score threshold. That is the minimum interaction value to link two proteins. Only protein-protein interaction with scores higher than chosen will be shown in the network. Score threshold is based on STRING’s combined score. 
 
-<img src="https://user-images.githubusercontent.com/49268378/87045626-6348ff80-c1f8-11ea-9142-63735224f289.png" width="450" heigth="200">
+<img src="https://user-images.githubusercontent.com/49268378/87045626-6348ff80-c1f8-11ea-9142-63735224f289.png" width="350" heigth="150">
 
 5. Choose graphical layout. Users are allowed to choose between 5 different layouts.
 
