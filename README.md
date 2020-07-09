@@ -23,7 +23,6 @@ User options.
 There is a preloaded example with two lists. By selecting “Load example data” option, an example network will be displayed. 
 <img src="https://user-images.githubusercontent.com/49268378/87045008-9fc82b80-c1f7-11ea-9be9-db4b6ec6a971.png" width="200" height="50">
 
-
 2. Choose annotation type.
 
 - Gene Symbol
@@ -31,18 +30,24 @@ There is a preloaded example with two lists. By selecting “Load example data�
 - Ensembl
 - Uniprot
 
-<img src="https://user-images.githubusercontent.com/49268378/87045210-e74eb780-c1f7-11ea-8939-699b63014aee.png" width="250" height="150">
+<img src="https://user-images.githubusercontent.com/49268378/87045210-e74eb780-c1f7-11ea-8939-699b63014aee.png" width="150" height="100">
+
+Press load data
+
+After clicking load data, results will be displayed.
+
+<>
 
 3. Choose network type. Users are allowed to compute interactions between lists (the so-called crosstalk) or interactions between and within lists.
 
 - whole –> get interactions from list 1 to list1, from list2 to list2, from list1 to list2, and viceversa
 - crosstalk –> get interactions only from list1 to list2 and viceversa
 
-<img src="https://user-images.githubusercontent.com/49268378/87045423-27ae3580-c1f8-11ea-8030-d618b0b81860.png" width="150" height="150">
+<img src="https://user-images.githubusercontent.com/49268378/87045423-27ae3580-c1f8-11ea-8030-d618b0b81860.png" width="150" height="100">
 
 4. Select score threshold. That is the minimum interaction value to link two proteins. Only protein-protein interaction with scores higher than chosen will be shown in the network. Score threshold is based on STRING’s combined score. 
 
-<img src="https://user-images.githubusercontent.com/49268378/87045626-6348ff80-c1f8-11ea-9142-63735224f289.png" width="150" heigth="150">
+<img src="https://user-images.githubusercontent.com/49268378/87045626-6348ff80-c1f8-11ea-9142-63735224f289.png" width="250" heigth="150">
 
 5. Choose graphical layout. Users are allowed to choose between 5 different layouts.
 
@@ -51,4 +56,43 @@ There is a preloaded example with two lists. By selecting “Load example data�
 - Sphere layout.
 - DH layout (Davidson-Harel algorithm). -only for network type whole-.
 - Bipartite layout. -only for network type crosstalk-.
+
+<img src="https://user-images.githubusercontent.com/49268378/87045880-b15e0300-c1f8-11ea-9ea2-10fd71ac9d48.png" width="250" height="250">
+
+6. Enrichment Analysis
+
+By default TALKIEN computes descriptive, topological network statistics and renders network plots. However, users are able to perform a functional analysis based on Reactome Pathway Database by selecting “Enrichment” tab, on top of the page. This may take between 10 seconds to 1 minute depending on the complexity of the lists.
+
+<>
+
+All results could be downloaded by clicking donwload buttons on the bottom of the tabs. Network plots could be downloaded first as html objects. Additionally, there is a black button to export the image to a png format once the downloaded html has been opened. 
+
+<>
+
+MAIN TAB: PLOTS
+
+Network will be displayed and able to be downloaded as an interactive html object. The size of the node is proportional to its degree and the width of the edge is proportional to its interaction score. In bipartite mode. There is the option of changing network orientation (UP-DOWN or LEFT-RIGHT) and changing the groups (bipartite network by lists or by location)
+
+<>
+
+In addition, users can select one node by a selection list at top-left of the plot
+
+<>
+
+Or by clicking on any node. If the selection is done by the latter option, a table with the node’s belonging pathways will be displayed. It shows pathway ID, pathway name and a link to see more in-depth pathway properties on reactome website. 
+
+<>
+
+
+NETWORK PARAMETERS TAB
+
+For the plotted network, the network descriptive parameters are displayed: number of nodes and edges, diameter, shortest_Pathway, density, average neighbors, clustering_coefficient and centralization.
+
+For all nodes five different centralization methods are displayed and can be downloaded. For each pair of connected nodes, interaction score, location, list and other annotation IDs are displayed and can be downloaded.
+ENRICHMENT ANALYSIS TAB
+
+In this tab are displayed the enrichment analysis results in two different ways.
+
+- Table summarizing enriched pathways, proteins involved, p-values, enrichment scores, ect.
+- Dotplot with up to 15 top enriched pathways.
 
