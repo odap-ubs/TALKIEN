@@ -11,6 +11,8 @@ A single tab delimited file with two columns: First column must contain genes or
 
 These lists may derive from a variety of experiments and could be measured with diverse transcriptomics, or proteomics approaches (RNAseq, scRNAseq, Spatial Transcriptomics, microarray, mass spectrometry, among others). For example, co-culture experiments of cancer cells with/without stromal cells, or cells growing under the stimulation of supernatant media collected from immune cell cultures. List from the example came from the following transcriptomic experiment:
 
+<img src="/home/46962313Q/talkien/suppl/fig2_exampleData.jpg", width = 400/>
+
 ### NETWORKS
 
 The basic elements of the networks are nodes (proteins) and edges (interactions between them) that connect nodes within the network. Connections are defined according to:
