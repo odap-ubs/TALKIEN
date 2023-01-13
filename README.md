@@ -9,9 +9,8 @@ A tool for plot, analize and perform functional analysis molecular crosstalk. Th
 
 A single tab delimited file with two columns: First column must contain genes or proteins. Second column must contain the tissue, cell type or condition. Columns should be named, otherwise first row will be considered the header. File should look like this:
 
-These lists may derive from a variety of experiments and could be measured with diverse transcriptomics, or proteomics approaches (RNAseq, scRNAseq, Spatial Transcriptomics, microarray, mass spectrometry, among others). For example, co-culture experiments of cancer cells with/without stromal cells, or cells growing under the stimulation of supernatant media collected from immune cell cultures. List from the example came from the following transcriptomic experiment:
+These lists may derive from a variety of experiments and could be measured with diverse transcriptomics, or proteomics approaches (RNAseq, scRNAseq, Spatial Transcriptomics, microarray, mass spectrometry, among others). For example, co-culture experiments of cancer cells with/without stromal cells, or cells growing under the stimulation of supernatant media collected from immune cell cultures.
 
-<img src="/home/46962313Q/talkien/suppl/fig2_exampleData.jpg", width = 400/>
 
 ### NETWORKS
 
@@ -28,10 +27,9 @@ There is a preloaded example data with two lists. By selecting "Load example dat
 
   2. When TALKIEN identifies more than two different tissues/lists, all pairwise possibilities are computed by default. However, users can select any combination of pairwise interactions between input lists (up to 8 different lists). Unselection of all possibilities gives the same result than selecting all of them.
 
-
   3. Choose **Ligand-Receptor DDBB**. By default, TALKIEN will combine all ligand-receptor DDBBs to integrate all possible information. This will give, in general, wider results.
 
-  4. Choose **annotation type**. Users must provide files with entries in one of the specified annotations:
+  4. Choose **annotation type**. Users must provide files with entries in one of the specified annotations
 
   5. Choose **network type**. Users can choose between selecting only paracrine interactions (between tissues: crosstalk mode) or both paracrine and autocrine interactions (between and within tissues: full mode)
 
@@ -106,7 +104,7 @@ Other network measures are computed for each node:
 ##### ENRICHMENT ANALYSIS TAB
 Users are able to perform functional analysis based on Reactome Pathway Database by selecting this tab. There are some extra options to customize the analysis.
 
- * When downstream analysis is not selected enrichment is done against ligands and receptors.
+ * When downstream analysis is not selected, enrichment is done against ligands and receptors.
  * When downstream analysis is selected, enrichment is done against all annotated entries
  * In addition, is also possible to perform enrichments for specific network clusters, tissues/lists
 
