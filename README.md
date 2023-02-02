@@ -9,6 +9,8 @@ A tool for plot, analize and perform functional analysis molecular crosstalk. Th
 
 A single tab delimited file with two columns: First column must contain genes or proteins. Second column must contain the tissue, cell type or condition. Columns should be named, otherwise first row will be considered the header. File should look like this:
 
+[example_input](https://github.com/odap-ubs/TALKIEN/blob/main/input_data/clx_input.txt)
+
 These lists may derive from a variety of experiments and could be measured with diverse transcriptomics, or proteomics approaches (RNAseq, scRNAseq, Spatial Transcriptomics, microarray, mass spectrometry, among others). For example, co-culture experiments of cancer cells with/without stromal cells, or cells growing under the stimulation of supernatant media collected from immune cell cultures.
 
 
