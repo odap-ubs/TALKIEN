@@ -1,9 +1,29 @@
 # TALKIEN - crossTALK IntEractive Network
 
 <p align="justify">
+README.md file containing general information and features of the application
+
+Please contact fmoratalla@iconcologia.net to report errors.
+
+
 A tool for plot, analize and perform functional analysis molecular crosstalk. The hypothesis behind is that cellular communication could be partially explained by physical interactions between receptor proteins and their specific ligands. In paracrine signalling, receptors are activated by lingand proteins secreted by another cell. TALKIEN also allow users to visualize activated pathways downstream receptors.
 
 [Link to TALKIEN](https://shiny.odap-ico.org/talkien/)
+
+
+For running as a local App, run the following steps:
+
+  1. Click on green button "Code" and download zip file
+  2. Uncompress zip file, open the main script "talkien_v1.0.R
+  3. Run the following commands:
+
+  ```
+install.packages("renv")
+renv::restore()
+  ```
+
+  4. Finally, click on "Run App" button to start the App
+
 
 ### INPUT
 
