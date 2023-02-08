@@ -14,7 +14,7 @@ A tool for plot, analize and perform functional analysis molecular crosstalk. Th
 For running as a local App, run the following steps:
 
   1. Click on green button "Code" and download zip file
-  2. Uncompress zip file, open the main script "talkien_v1.0.R
+  2. Uncompress zip file, open the main script "talkien_v1.0.R in RStudio
   3. Run the following commands:
 
   ```
