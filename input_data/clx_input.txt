@@ -1,659 +1,659 @@
 genes	list
-VIP	Healthy
-CYR61	Healthy
-FOS	Healthy
-EGR1	Healthy
-ADAMTS1	Healthy
-APOLD1	Healthy
-SFRP2	Healthy
-DYNC1H1	Healthy
-KLF2	Healthy
-SFRP1	Healthy
-CD248	Healthy
-CTGF	Healthy
-MGP	Healthy
-GREM1	Healthy
-RSPO3	Healthy
-TNXA	Healthy
-FAM107A	Healthy
-AEBP1	Healthy
-TNXB	Healthy
-OGN	Healthy
-MFAP5	Healthy
-CH25H	Healthy
-TIMP3	Healthy
-FBLN2	Healthy
-NNMT	Healthy
-C3	Healthy
-FLRT2	Healthy
-C8orf4	Healthy
-PTGIS	Healthy
-CDH5	Healthy
-EFHD1	Healthy
-SPTBN1	Healthy
-MRC2	Healthy
-RERGL	Healthy
-IGFBP6	Healthy
-GAL	Healthy
-VWF	Healthy
-C11orf96	Healthy
-EBF1	Healthy
-CILP	Healthy
-COL6A3	Healthy
-C1R	Healthy
-SLIT3	Healthy
-ADH1B	Healthy
-TGFBR3	Healthy
-DUSP1	Healthy
-WISP2	Healthy
-LYVE1	Healthy
-CCDC80	Healthy
-SIK1	Healthy
-THBD	Healthy
-HTRA1	Healthy
-TSC22D3	Healthy
-HEG1	Healthy
-PCSK5	Healthy
-JUN	Healthy
-PDGFRA	Healthy
-SEMA3G	Healthy
-ROBO4	Healthy
-CLEC3B	Healthy
-ELN	Healthy
-TMEM110-MUSTN1	Healthy
-MUSTN1	Healthy
-PECAM1	Healthy
-ZFP36	Healthy
-CLDN11	Healthy
-CHRDL1	Healthy
-C2orf40	Healthy
-SRP19	Healthy
-PDGFRB	Healthy
-TEK	Healthy
-RBMS3	Healthy
-VEGFC	Healthy
-UCHL1	Healthy
-PCOLCE2	Healthy
-SRPX	Healthy
-CD93	Healthy
-FBLN1	Healthy
-S1PR1	Healthy
-COL14A1	Healthy
-GPR116	Healthy
-IGF2	Healthy
-APOD	Healthy
-DUSP6	Healthy
-NR4A1	Healthy
-CCDC3	Healthy
-SOX18	Healthy
-RCAN2	Healthy
-OLFM1	Healthy
-CEBPD	Healthy
-TMTC1	Healthy
-GJA1	Healthy
-SHANK3	Healthy
-ECSCR	Healthy
-RGS1	Healthy
-TMEM100	Healthy
-PMP22	Healthy
-APCDD1	Healthy
-CLU	Healthy
-MMP2	Healthy
-PCDHGC5	Healthy
-PCDHGB4	Healthy
-MMRN1	Healthy
-CACHD1	Healthy
-AIF1L	Healthy
-PTPRM	Healthy
-LDB2	Healthy
-STEAP4	Healthy
-PRRX1	Healthy
-EFEMP1	Healthy
-ACKR3	Healthy
-FBN1	Healthy
-GPR124	Healthy
-LRRC32	Healthy
-RGMA	Healthy
-TFPI	Healthy
-ARHGAP29	Healthy
-ZFPM2	Healthy
-FKBP10	Healthy
-ZBTB20	Healthy
-CALB2	Healthy
-ABI3BP	Healthy
-CLEC14A	Healthy
-SERPING1	Healthy
-SHISA3	Healthy
-C7	Healthy
-SOD3	Healthy
-MAP1B	Healthy
-BCAT1	Healthy
-C1S	Healthy
-L1CAM	Healthy
-DPT	Healthy
-CSRNP1	Healthy
-TAC1	Healthy
-FSTL1	Healthy
-FZD4	Healthy
-FN1	Healthy
-HSPG2	Healthy
-MALAT1	Healthy
-USP13	Healthy
-IGFBP5	Healthy
-CLDN5	Healthy
-SLMAP	Healthy
-ANK2	Healthy
-RELN	Healthy
-TMEM158	Healthy
-SASH1	Healthy
-COL12A1	Healthy
-CSRP2	Healthy
-THBS2	Healthy
-PXDN	Healthy
-MXRA5	Healthy
-LAMC1	Healthy
-PRIMA1	Healthy
-GAP43	Healthy
-LTBP1	Healthy
-TENC1	Healthy
-THBS1	Healthy
-KRT24	Healthy
-C16orf89	Healthy
-PDE2A	Healthy
-PI16	Healthy
-STAB1	Healthy
-RGS2	Healthy
-ANGPTL2	Healthy
-ADAMTS5	Healthy
-LRRN4CL	Healthy
-BICC1	Healthy
-COL8A1	Healthy
-SCG2	Healthy
-SPON2	Healthy
-DCN	Healthy
-ACTA2	Healthy
-PPL	Healthy
-GAS7	Healthy
-FGD5	Healthy
-NUAK1	Healthy
-ARHGAP23	Healthy
-ATF3	Healthy
-CRISPLD2	Healthy
-TPST1	Healthy
-SERPINA3	Healthy
-COL6A2	Healthy
-NUMBL	Healthy
-SDPR	Healthy
-GRASP	Healthy
-CFHR1	Healthy
-C1QTNF3	Healthy
-AHI1	Healthy
-PER1	Healthy
-MLLT11	Healthy
-ECM2	Healthy
-JUNB	Healthy
-PODN	Healthy
-TMEM47	Healthy
-LDLR	Healthy
-TWIST2	Healthy
-SLITRK3	Healthy
-THSD7A	Healthy
-GREM2	Healthy
-CFH	Healthy
-TLN1	Healthy
-HBEGF	Healthy
-ERG	Healthy
-SLC7A2	Healthy
-GAS1	Healthy
-FOXF1	Healthy
-JAM2	Healthy
-LHFP	Healthy
-OLFML3	Healthy
-FRMD6	Healthy
-COL6A1	Healthy
-AKAP12	Healthy
-EGR2	Healthy
-MIR21	Healthy
-VMP1	Healthy
-NLGN4X	Healthy
-MN1	Healthy
-DDR2	Healthy
-EDNRA	Healthy
-TMEFF2	Healthy
-COL1A2	Healthy
-DBN1	Healthy
-ISLR	Healthy
-GATA2	Healthy
-PAMR1	Healthy
-FGFR1	Healthy
-TNFAIP2	Healthy
-IRS1	Healthy
-DARC	Healthy
-CAV1	Healthy
-ELTD1	Healthy
-PHLDA1	Healthy
-EMCN	Healthy
-IGDCC4	Healthy
-RBMS1	Healthy
-RNF213	Healthy
-GEM	Healthy
-ARHGEF10	Healthy
-RUFY2	Healthy
-PALMD	Healthy
-PLN	Healthy
-THY1	Healthy
-SH3BP5	Healthy
-EFEMP2	Healthy
-PTPRS	Healthy
-LGI1	Healthy
-PRELP	Healthy
-RUFY3	Healthy
-TLL1	Healthy
-FOXC1	Healthy
-CDKN1C	Healthy
-LARP6	Healthy
-CYYR1	Healthy
-TRIB2	Healthy
-ZBTB16	Healthy
-ZNF423	Healthy
-AFF3	Healthy
-RHOB	Healthy
-CTSK	Healthy
-EGR3	Healthy
-OMD	Healthy
-GPX3	Healthy
-RTN1	Healthy
-NRN1	Healthy
-LEPR	Healthy
-NR4A2	Healthy
-S100A4	Healthy
-FAM20C	Healthy
-DLC1	Healthy
-GYPC	Healthy
-NFASC	Healthy
-PRPH	Healthy
-CAMTA1	Healthy
-CHRM3	Healthy
-TUBB3	Healthy
-TCF4	Healthy
-COX7A1	Healthy
-MX2	Healthy
-CRYAB	Healthy
-PDE4B	Healthy
-SLIT2	Healthy
-SPARCL1	Healthy
-IGSF10	Healthy
-IFI16	Healthy
-ABCA9	Healthy
-KCNAB1	Healthy
-SULF1	Healthy
-CADM3	Healthy
-GPC6	Healthy
-IGFBP3	Healthy
-FIGF	Healthy
-MAFF	Healthy
-SOCS3	Healthy
-COL4A1	Healthy
-XAF1	Healthy
-LPHN2	Healthy
-FILIP1L	Healthy
-FBLN5	Healthy
-C1QTNF7	Healthy
-IL33	Healthy
-LIFR	Healthy
-PDZD2	Healthy
-LAMB2	Healthy
-HTRA3	Healthy
-SPARC	Healthy
-TUBB6	Healthy
-SSPN	Healthy
-FRAS1	Healthy
-NR4A3	Healthy
-SERPINE2	Healthy
-FAM129A	Healthy
-COL18A1	Healthy
-NKX2-3	Healthy
-PCDH7	Healthy
-CCDC50	Healthy
-VCAN	Healthy
-DCLK1	Healthy
-ITPR1	Healthy
-SGK1	Healthy
-INMT	Healthy
-FHL5	Healthy
-TSHZ2	Healthy
-CAV2	Healthy
-PCDH9	Healthy
-HERC5	Healthy
-FEZ1	Healthy
-SERPINE1	Healthy
-MYADM	Healthy
-SP110	Healthy
-ADAMTS4	Healthy
-GUCY1B3	Healthy
-BEX1	Healthy
-TIMP2	Healthy
-MYH10	Healthy
-CXCR4	Healthy
-CCL21	Healthy
-RECK	Healthy
-JAM3	Healthy
-TSHZ3	Healthy
-TUBA1A	Healthy
-ELAVL4	Healthy
-MX1	Healthy
-IFI44	Healthy
-NXN	Healthy
-MAP4	Healthy
-AOC3	Healthy
-HELZ2	Healthy
-MYOC	Healthy
-B3GALNT1	Healthy
-TAGLN	Healthy
-HAND2	Healthy
-MEDAG	Healthy
-LRRC17	Healthy
-MCAM	Healthy
-S1PR3	Healthy
-PTN	Healthy
-PPFIBP1	Healthy
-PDE1A	Healthy
-FGF13	Healthy
-RHOJ	Healthy
-PRPF38B	Healthy
-SDC2	Healthy
-ITIH5	Healthy
-SYT1	Healthy
-IFIT1	Healthy
-MEOX2	Healthy
-ADARB1	Healthy
-NAP1L5	Healthy
-OSR2	Healthy
-CDH13	Healthy
-WWTR1	Healthy
-COL1A1	Healthy
-CES1P1	Healthy
-CES1	Healthy
-IFIT3	Healthy
-NEXN	Healthy
-PTRF	Healthy
-TIMP1	Healthy
-FOSB	Healthy
-CFD	Healthy
-FAM13C	Healthy
-C16orf45	Healthy
-OR51E2	Healthy
-FMO2	Healthy
-MXRA7	Healthy
-MPDZ	Healthy
-MAP2	Healthy
-FXYD1	Healthy
-DHX58	Healthy
-GPRASP1	Healthy
-RERG	Healthy
-ZCCHC24	Healthy
-CD109	Healthy
-HBA1	Healthy
-HBA2	Healthy
-HMP19	Healthy
-GUCY1A3	Healthy
-GLI3	Healthy
-RBPMS2	Healthy
-MFAP4	Healthy
-CXCL12	Healthy
-DIP2C	Healthy
-DNAJC6	Healthy
-FRY	Healthy
-MRAS	Healthy
-PRICKLE2	Healthy
-GHR	Healthy
-TUBB2B	Healthy
-CDH19	Healthy
-OLFML2A	Healthy
-WASF3	Healthy
-CHRNA3	Healthy
-NDRG4	Healthy
-KLF7	Healthy
-SPOCK1	Healthy
-INHBB	Healthy
-PEG3	Healthy
-ACTG2	Healthy
-EHD2	Healthy
-PRKCDBP	Healthy
-MEIS1	Healthy
-TMEM255A	Healthy
-AMOTL1	Healthy
-SLC12A4	Healthy
-TPM2	Healthy
-ASPN	Healthy
-HERC6	Healthy
-PGM5	Healthy
-TRIM22	Healthy
-BHLHE41	Healthy
-CDO1	Healthy
-ANGPTL1	Healthy
-RSPO2	Healthy
-NAP1L3	Healthy
-LIMCH1	Healthy
-EFS	Healthy
-IFI6	Healthy
-GALNT15	Healthy
-C20orf194	Healthy
-PTGS2	Healthy
-ITGA7	Healthy
-SOBP	Healthy
-AKAP2	Healthy
-PALM2-AKAP2	Healthy
-RASL12	Healthy
-AHNAK2	Healthy
-USP18	Healthy
-GFRA1	Healthy
-TSPYL5	Healthy
-SMARCA1	Healthy
-NEFL	Healthy
-CHN1	Healthy
-PTGDS	Healthy
-PIRT	Healthy
-SEMA3A	Healthy
-ISG15	Healthy
-IFI44L	Healthy
-FABP4	Healthy
-TSPAN4	Healthy
-ANO6	Healthy
-PARP9	Healthy
-IL17RD	Healthy
-FLNA	Healthy
-ATP2B4	Healthy
-SLC2A3	Healthy
-C4A	Healthy
-C4B	Healthy
-KIAA0408	Healthy
-SOGA3	Healthy
-PPP1R12B	Healthy
-MUC4	Healthy
-ABCC9	Healthy
-RAI2	Healthy
-FGF7	Healthy
-NRXN3	Healthy
-LRRFIP1	Healthy
-CYP1B1	Healthy
-TMOD2	Healthy
-CTSG	Healthy
-NCAM1	Healthy
-AGTR1	Healthy
-EML1	Healthy
-TCEAL7	Healthy
-MYH11	Healthy
-ZEB1	Healthy
-PRDM8	Healthy
-PALLD	Healthy
-FZD7	Healthy
-ZNF532	Healthy
-HLF	Healthy
-CLIP3	Healthy
-RAB34	Healthy
-SAMD9L	Healthy
-OAS2	Healthy
-RIMKLB	Healthy
-SERPINF1	Healthy
-PTBP2	Healthy
-ROR2	Healthy
-LPL	Healthy
-CNTN1	Healthy
-CCNL1	Healthy
-SMIM10	Healthy
-FERMT2	Healthy
-AREG	Healthy
-CALD1	Healthy
-KATNAL1	Healthy
-TRPC1	Healthy
-RBPMS	Healthy
-RUNX1T1	Healthy
-RGS5	Healthy
-SYNPO2	Healthy
-SAA2-SAA4	Healthy
-TNC	Healthy
-MYL9	Healthy
-DPYSL3	Healthy
-PHOX2B	Healthy
-DACT3	Healthy
-VGLL3	Healthy
-KCNN3	Healthy
-SYNM	Healthy
-HSPB8	Healthy
-PDLIM4	Healthy
-PHLDB2	Healthy
-REEP1	Healthy
-HBB	Healthy
-OAS3	Healthy
-MSRB3	Healthy
-SGCD	Healthy
-CLIP4	Healthy
-ATP1A2	Healthy
-TGFB1I1	Healthy
-OLFML2B	Healthy
-COL15A1	Healthy
-PHF20L1	Healthy
-PBX3	Healthy
-NTM	Healthy
-GPM6B	Healthy
-BNC2	Healthy
-FHL1	Healthy
-MTCL1	Healthy
-ADAMTSL3	Healthy
-JAZF1	Healthy
-SPP1	Healthy
-MRVI1	Healthy
-SAMD4A	Healthy
-RBM24	Healthy
-ZAK	Healthy
-PLP1	Healthy
-MYLK	Healthy
-LSAMP	Healthy
-SELM	Healthy
-CYS1	Healthy
-BCHE	Healthy
-NT5DC3	Healthy
-TCEAL2	Healthy
-CASQ2	Healthy
-MUC12	Healthy
-MYOCD	Healthy
-DTNA	Healthy
-DNER	Healthy
-PRDM6	Healthy
-RASSF8	Healthy
-STON1	Healthy
-CNN1	Healthy
-FIBIN	Healthy
-SORBS1	Healthy
-TSPAN18	Healthy
-MAMDC2	Healthy
-ADIPOQ	Healthy
-NPR3	Healthy
-TNS1	Healthy
-G0S2	Healthy
-NRXN1	Healthy
-NBEA	Healthy
-PDLIM3	Healthy
-S100B	Healthy
-WFDC1	Healthy
-KCNH2	Healthy
-IL8	Healthy
-SPG20	Healthy
-MRGPRF	Healthy
-PRNP	Healthy
-CPED1	Healthy
-CXCL11	Healthy
-LAMP3	Healthy
-LIMS2	Healthy
-DDX58	Healthy
-GLDN	Healthy
-KANK2	Healthy
-DES	Healthy
-GJC1	Healthy
-CXCL1	Healthy
-PLIN1	Healthy
-SORBS2	Healthy
-KCNMB1	Healthy
-EPHA3	Healthy
-CFL2	Healthy
-FLNC	Healthy
-ITGA5	Healthy
-B3GNT7	Healthy
-CCL20	Healthy
-PLEKHO1	Healthy
-TSPAN2	Healthy
-MEIS2	Healthy
-SAA1	Healthy
-ARHGEF25	Healthy
-TMEM200A	Healthy
-THRB	Healthy
-GPM6A	Healthy
-BAG2	Healthy
-PRAC1	Healthy
-FILIP1	Healthy
-CCL2	Healthy
-LMOD1	Healthy
-PI3	Healthy
-FAM46B	Healthy
-CPXM2	Healthy
-ST3GAL4	Healthy
-IQCJ-SCHIP1	Healthy
-SCHIP1	Healthy
-SNAP25	Healthy
-PRKAA2	Healthy
-SCNN1G	Healthy
-CAP2	Healthy
-CMPK2	Healthy
-HSPB7	Healthy
-LAYN	Healthy
-DNAJB5	Healthy
-HOXB13	Healthy
-RSAD2	Healthy
-FXYD6-FXYD2	Healthy
-FXYD6	Healthy
-FNDC1	Healthy
-C21orf88	Healthy
-SEPT6	Healthy
-VCL	Healthy
-LDB3	Healthy
-LMO3	Healthy
-MASP1	Healthy
-PDZRN4	Healthy
-SMTN	Healthy
-AKR1C1	Healthy
-THBS4	Healthy
-NPTX1	Healthy
-RAMP1	Healthy
-POPDC2	Healthy
-DUOX2	Healthy
-CXCL13	Healthy
-PCP4	Healthy
-CCL19	Healthy
-PENK	Healthy
-INSL5	Healthy
-SMPX	Healthy
-FDCSP	Healthy
+VIP	Tumor-adjacent Normal
+CYR61	Tumor-adjacent Normal
+FOS	Tumor-adjacent Normal
+EGR1	Tumor-adjacent Normal
+ADAMTS1	Tumor-adjacent Normal
+APOLD1	Tumor-adjacent Normal
+SFRP2	Tumor-adjacent Normal
+DYNC1H1	Tumor-adjacent Normal
+KLF2	Tumor-adjacent Normal
+SFRP1	Tumor-adjacent Normal
+CD248	Tumor-adjacent Normal
+CTGF	Tumor-adjacent Normal
+MGP	Tumor-adjacent Normal
+GREM1	Tumor-adjacent Normal
+RSPO3	Tumor-adjacent Normal
+TNXA	Tumor-adjacent Normal
+FAM107A	Tumor-adjacent Normal
+AEBP1	Tumor-adjacent Normal
+TNXB	Tumor-adjacent Normal
+OGN	Tumor-adjacent Normal
+MFAP5	Tumor-adjacent Normal
+CH25H	Tumor-adjacent Normal
+TIMP3	Tumor-adjacent Normal
+FBLN2	Tumor-adjacent Normal
+NNMT	Tumor-adjacent Normal
+C3	Tumor-adjacent Normal
+FLRT2	Tumor-adjacent Normal
+C8orf4	Tumor-adjacent Normal
+PTGIS	Tumor-adjacent Normal
+CDH5	Tumor-adjacent Normal
+EFHD1	Tumor-adjacent Normal
+SPTBN1	Tumor-adjacent Normal
+MRC2	Tumor-adjacent Normal
+RERGL	Tumor-adjacent Normal
+IGFBP6	Tumor-adjacent Normal
+GAL	Tumor-adjacent Normal
+VWF	Tumor-adjacent Normal
+C11orf96	Tumor-adjacent Normal
+EBF1	Tumor-adjacent Normal
+CILP	Tumor-adjacent Normal
+COL6A3	Tumor-adjacent Normal
+C1R	Tumor-adjacent Normal
+SLIT3	Tumor-adjacent Normal
+ADH1B	Tumor-adjacent Normal
+TGFBR3	Tumor-adjacent Normal
+DUSP1	Tumor-adjacent Normal
+WISP2	Tumor-adjacent Normal
+LYVE1	Tumor-adjacent Normal
+CCDC80	Tumor-adjacent Normal
+SIK1	Tumor-adjacent Normal
+THBD	Tumor-adjacent Normal
+HTRA1	Tumor-adjacent Normal
+TSC22D3	Tumor-adjacent Normal
+HEG1	Tumor-adjacent Normal
+PCSK5	Tumor-adjacent Normal
+JUN	Tumor-adjacent Normal
+PDGFRA	Tumor-adjacent Normal
+SEMA3G	Tumor-adjacent Normal
+ROBO4	Tumor-adjacent Normal
+CLEC3B	Tumor-adjacent Normal
+ELN	Tumor-adjacent Normal
+TMEM110-MUSTN1	Tumor-adjacent Normal
+MUSTN1	Tumor-adjacent Normal
+PECAM1	Tumor-adjacent Normal
+ZFP36	Tumor-adjacent Normal
+CLDN11	Tumor-adjacent Normal
+CHRDL1	Tumor-adjacent Normal
+C2orf40	Tumor-adjacent Normal
+SRP19	Tumor-adjacent Normal
+PDGFRB	Tumor-adjacent Normal
+TEK	Tumor-adjacent Normal
+RBMS3	Tumor-adjacent Normal
+VEGFC	Tumor-adjacent Normal
+UCHL1	Tumor-adjacent Normal
+PCOLCE2	Tumor-adjacent Normal
+SRPX	Tumor-adjacent Normal
+CD93	Tumor-adjacent Normal
+FBLN1	Tumor-adjacent Normal
+S1PR1	Tumor-adjacent Normal
+COL14A1	Tumor-adjacent Normal
+GPR116	Tumor-adjacent Normal
+IGF2	Tumor-adjacent Normal
+APOD	Tumor-adjacent Normal
+DUSP6	Tumor-adjacent Normal
+NR4A1	Tumor-adjacent Normal
+CCDC3	Tumor-adjacent Normal
+SOX18	Tumor-adjacent Normal
+RCAN2	Tumor-adjacent Normal
+OLFM1	Tumor-adjacent Normal
+CEBPD	Tumor-adjacent Normal
+TMTC1	Tumor-adjacent Normal
+GJA1	Tumor-adjacent Normal
+SHANK3	Tumor-adjacent Normal
+ECSCR	Tumor-adjacent Normal
+RGS1	Tumor-adjacent Normal
+TMEM100	Tumor-adjacent Normal
+PMP22	Tumor-adjacent Normal
+APCDD1	Tumor-adjacent Normal
+CLU	Tumor-adjacent Normal
+MMP2	Tumor-adjacent Normal
+PCDHGC5	Tumor-adjacent Normal
+PCDHGB4	Tumor-adjacent Normal
+MMRN1	Tumor-adjacent Normal
+CACHD1	Tumor-adjacent Normal
+AIF1L	Tumor-adjacent Normal
+PTPRM	Tumor-adjacent Normal
+LDB2	Tumor-adjacent Normal
+STEAP4	Tumor-adjacent Normal
+PRRX1	Tumor-adjacent Normal
+EFEMP1	Tumor-adjacent Normal
+ACKR3	Tumor-adjacent Normal
+FBN1	Tumor-adjacent Normal
+GPR124	Tumor-adjacent Normal
+LRRC32	Tumor-adjacent Normal
+RGMA	Tumor-adjacent Normal
+TFPI	Tumor-adjacent Normal
+ARHGAP29	Tumor-adjacent Normal
+ZFPM2	Tumor-adjacent Normal
+FKBP10	Tumor-adjacent Normal
+ZBTB20	Tumor-adjacent Normal
+CALB2	Tumor-adjacent Normal
+ABI3BP	Tumor-adjacent Normal
+CLEC14A	Tumor-adjacent Normal
+SERPING1	Tumor-adjacent Normal
+SHISA3	Tumor-adjacent Normal
+C7	Tumor-adjacent Normal
+SOD3	Tumor-adjacent Normal
+MAP1B	Tumor-adjacent Normal
+BCAT1	Tumor-adjacent Normal
+C1S	Tumor-adjacent Normal
+L1CAM	Tumor-adjacent Normal
+DPT	Tumor-adjacent Normal
+CSRNP1	Tumor-adjacent Normal
+TAC1	Tumor-adjacent Normal
+FSTL1	Tumor-adjacent Normal
+FZD4	Tumor-adjacent Normal
+FN1	Tumor-adjacent Normal
+HSPG2	Tumor-adjacent Normal
+MALAT1	Tumor-adjacent Normal
+USP13	Tumor-adjacent Normal
+IGFBP5	Tumor-adjacent Normal
+CLDN5	Tumor-adjacent Normal
+SLMAP	Tumor-adjacent Normal
+ANK2	Tumor-adjacent Normal
+RELN	Tumor-adjacent Normal
+TMEM158	Tumor-adjacent Normal
+SASH1	Tumor-adjacent Normal
+COL12A1	Tumor-adjacent Normal
+CSRP2	Tumor-adjacent Normal
+THBS2	Tumor-adjacent Normal
+PXDN	Tumor-adjacent Normal
+MXRA5	Tumor-adjacent Normal
+LAMC1	Tumor-adjacent Normal
+PRIMA1	Tumor-adjacent Normal
+GAP43	Tumor-adjacent Normal
+LTBP1	Tumor-adjacent Normal
+TENC1	Tumor-adjacent Normal
+THBS1	Tumor-adjacent Normal
+KRT24	Tumor-adjacent Normal
+C16orf89	Tumor-adjacent Normal
+PDE2A	Tumor-adjacent Normal
+PI16	Tumor-adjacent Normal
+STAB1	Tumor-adjacent Normal
+RGS2	Tumor-adjacent Normal
+ANGPTL2	Tumor-adjacent Normal
+ADAMTS5	Tumor-adjacent Normal
+LRRN4CL	Tumor-adjacent Normal
+BICC1	Tumor-adjacent Normal
+COL8A1	Tumor-adjacent Normal
+SCG2	Tumor-adjacent Normal
+SPON2	Tumor-adjacent Normal
+DCN	Tumor-adjacent Normal
+ACTA2	Tumor-adjacent Normal
+PPL	Tumor-adjacent Normal
+GAS7	Tumor-adjacent Normal
+FGD5	Tumor-adjacent Normal
+NUAK1	Tumor-adjacent Normal
+ARHGAP23	Tumor-adjacent Normal
+ATF3	Tumor-adjacent Normal
+CRISPLD2	Tumor-adjacent Normal
+TPST1	Tumor-adjacent Normal
+SERPINA3	Tumor-adjacent Normal
+COL6A2	Tumor-adjacent Normal
+NUMBL	Tumor-adjacent Normal
+SDPR	Tumor-adjacent Normal
+GRASP	Tumor-adjacent Normal
+CFHR1	Tumor-adjacent Normal
+C1QTNF3	Tumor-adjacent Normal
+AHI1	Tumor-adjacent Normal
+PER1	Tumor-adjacent Normal
+MLLT11	Tumor-adjacent Normal
+ECM2	Tumor-adjacent Normal
+JUNB	Tumor-adjacent Normal
+PODN	Tumor-adjacent Normal
+TMEM47	Tumor-adjacent Normal
+LDLR	Tumor-adjacent Normal
+TWIST2	Tumor-adjacent Normal
+SLITRK3	Tumor-adjacent Normal
+THSD7A	Tumor-adjacent Normal
+GREM2	Tumor-adjacent Normal
+CFH	Tumor-adjacent Normal
+TLN1	Tumor-adjacent Normal
+HBEGF	Tumor-adjacent Normal
+ERG	Tumor-adjacent Normal
+SLC7A2	Tumor-adjacent Normal
+GAS1	Tumor-adjacent Normal
+FOXF1	Tumor-adjacent Normal
+JAM2	Tumor-adjacent Normal
+LHFP	Tumor-adjacent Normal
+OLFML3	Tumor-adjacent Normal
+FRMD6	Tumor-adjacent Normal
+COL6A1	Tumor-adjacent Normal
+AKAP12	Tumor-adjacent Normal
+EGR2	Tumor-adjacent Normal
+MIR21	Tumor-adjacent Normal
+VMP1	Tumor-adjacent Normal
+NLGN4X	Tumor-adjacent Normal
+MN1	Tumor-adjacent Normal
+DDR2	Tumor-adjacent Normal
+EDNRA	Tumor-adjacent Normal
+TMEFF2	Tumor-adjacent Normal
+COL1A2	Tumor-adjacent Normal
+DBN1	Tumor-adjacent Normal
+ISLR	Tumor-adjacent Normal
+GATA2	Tumor-adjacent Normal
+PAMR1	Tumor-adjacent Normal
+FGFR1	Tumor-adjacent Normal
+TNFAIP2	Tumor-adjacent Normal
+IRS1	Tumor-adjacent Normal
+DARC	Tumor-adjacent Normal
+CAV1	Tumor-adjacent Normal
+ELTD1	Tumor-adjacent Normal
+PHLDA1	Tumor-adjacent Normal
+EMCN	Tumor-adjacent Normal
+IGDCC4	Tumor-adjacent Normal
+RBMS1	Tumor-adjacent Normal
+RNF213	Tumor-adjacent Normal
+GEM	Tumor-adjacent Normal
+ARHGEF10	Tumor-adjacent Normal
+RUFY2	Tumor-adjacent Normal
+PALMD	Tumor-adjacent Normal
+PLN	Tumor-adjacent Normal
+THY1	Tumor-adjacent Normal
+SH3BP5	Tumor-adjacent Normal
+EFEMP2	Tumor-adjacent Normal
+PTPRS	Tumor-adjacent Normal
+LGI1	Tumor-adjacent Normal
+PRELP	Tumor-adjacent Normal
+RUFY3	Tumor-adjacent Normal
+TLL1	Tumor-adjacent Normal
+FOXC1	Tumor-adjacent Normal
+CDKN1C	Tumor-adjacent Normal
+LARP6	Tumor-adjacent Normal
+CYYR1	Tumor-adjacent Normal
+TRIB2	Tumor-adjacent Normal
+ZBTB16	Tumor-adjacent Normal
+ZNF423	Tumor-adjacent Normal
+AFF3	Tumor-adjacent Normal
+RHOB	Tumor-adjacent Normal
+CTSK	Tumor-adjacent Normal
+EGR3	Tumor-adjacent Normal
+OMD	Tumor-adjacent Normal
+GPX3	Tumor-adjacent Normal
+RTN1	Tumor-adjacent Normal
+NRN1	Tumor-adjacent Normal
+LEPR	Tumor-adjacent Normal
+NR4A2	Tumor-adjacent Normal
+S100A4	Tumor-adjacent Normal
+FAM20C	Tumor-adjacent Normal
+DLC1	Tumor-adjacent Normal
+GYPC	Tumor-adjacent Normal
+NFASC	Tumor-adjacent Normal
+PRPH	Tumor-adjacent Normal
+CAMTA1	Tumor-adjacent Normal
+CHRM3	Tumor-adjacent Normal
+TUBB3	Tumor-adjacent Normal
+TCF4	Tumor-adjacent Normal
+COX7A1	Tumor-adjacent Normal
+MX2	Tumor-adjacent Normal
+CRYAB	Tumor-adjacent Normal
+PDE4B	Tumor-adjacent Normal
+SLIT2	Tumor-adjacent Normal
+SPARCL1	Tumor-adjacent Normal
+IGSF10	Tumor-adjacent Normal
+IFI16	Tumor-adjacent Normal
+ABCA9	Tumor-adjacent Normal
+KCNAB1	Tumor-adjacent Normal
+SULF1	Tumor-adjacent Normal
+CADM3	Tumor-adjacent Normal
+GPC6	Tumor-adjacent Normal
+IGFBP3	Tumor-adjacent Normal
+FIGF	Tumor-adjacent Normal
+MAFF	Tumor-adjacent Normal
+SOCS3	Tumor-adjacent Normal
+COL4A1	Tumor-adjacent Normal
+XAF1	Tumor-adjacent Normal
+LPHN2	Tumor-adjacent Normal
+FILIP1L	Tumor-adjacent Normal
+FBLN5	Tumor-adjacent Normal
+C1QTNF7	Tumor-adjacent Normal
+IL33	Tumor-adjacent Normal
+LIFR	Tumor-adjacent Normal
+PDZD2	Tumor-adjacent Normal
+LAMB2	Tumor-adjacent Normal
+HTRA3	Tumor-adjacent Normal
+SPARC	Tumor-adjacent Normal
+TUBB6	Tumor-adjacent Normal
+SSPN	Tumor-adjacent Normal
+FRAS1	Tumor-adjacent Normal
+NR4A3	Tumor-adjacent Normal
+SERPINE2	Tumor-adjacent Normal
+FAM129A	Tumor-adjacent Normal
+COL18A1	Tumor-adjacent Normal
+NKX2-3	Tumor-adjacent Normal
+PCDH7	Tumor-adjacent Normal
+CCDC50	Tumor-adjacent Normal
+VCAN	Tumor-adjacent Normal
+DCLK1	Tumor-adjacent Normal
+ITPR1	Tumor-adjacent Normal
+SGK1	Tumor-adjacent Normal
+INMT	Tumor-adjacent Normal
+FHL5	Tumor-adjacent Normal
+TSHZ2	Tumor-adjacent Normal
+CAV2	Tumor-adjacent Normal
+PCDH9	Tumor-adjacent Normal
+HERC5	Tumor-adjacent Normal
+FEZ1	Tumor-adjacent Normal
+SERPINE1	Tumor-adjacent Normal
+MYADM	Tumor-adjacent Normal
+SP110	Tumor-adjacent Normal
+ADAMTS4	Tumor-adjacent Normal
+GUCY1B3	Tumor-adjacent Normal
+BEX1	Tumor-adjacent Normal
+TIMP2	Tumor-adjacent Normal
+MYH10	Tumor-adjacent Normal
+CXCR4	Tumor-adjacent Normal
+CCL21	Tumor-adjacent Normal
+RECK	Tumor-adjacent Normal
+JAM3	Tumor-adjacent Normal
+TSHZ3	Tumor-adjacent Normal
+TUBA1A	Tumor-adjacent Normal
+ELAVL4	Tumor-adjacent Normal
+MX1	Tumor-adjacent Normal
+IFI44	Tumor-adjacent Normal
+NXN	Tumor-adjacent Normal
+MAP4	Tumor-adjacent Normal
+AOC3	Tumor-adjacent Normal
+HELZ2	Tumor-adjacent Normal
+MYOC	Tumor-adjacent Normal
+B3GALNT1	Tumor-adjacent Normal
+TAGLN	Tumor-adjacent Normal
+HAND2	Tumor-adjacent Normal
+MEDAG	Tumor-adjacent Normal
+LRRC17	Tumor-adjacent Normal
+MCAM	Tumor-adjacent Normal
+S1PR3	Tumor-adjacent Normal
+PTN	Tumor-adjacent Normal
+PPFIBP1	Tumor-adjacent Normal
+PDE1A	Tumor-adjacent Normal
+FGF13	Tumor-adjacent Normal
+RHOJ	Tumor-adjacent Normal
+PRPF38B	Tumor-adjacent Normal
+SDC2	Tumor-adjacent Normal
+ITIH5	Tumor-adjacent Normal
+SYT1	Tumor-adjacent Normal
+IFIT1	Tumor-adjacent Normal
+MEOX2	Tumor-adjacent Normal
+ADARB1	Tumor-adjacent Normal
+NAP1L5	Tumor-adjacent Normal
+OSR2	Tumor-adjacent Normal
+CDH13	Tumor-adjacent Normal
+WWTR1	Tumor-adjacent Normal
+COL1A1	Tumor-adjacent Normal
+CES1P1	Tumor-adjacent Normal
+CES1	Tumor-adjacent Normal
+IFIT3	Tumor-adjacent Normal
+NEXN	Tumor-adjacent Normal
+PTRF	Tumor-adjacent Normal
+TIMP1	Tumor-adjacent Normal
+FOSB	Tumor-adjacent Normal
+CFD	Tumor-adjacent Normal
+FAM13C	Tumor-adjacent Normal
+C16orf45	Tumor-adjacent Normal
+OR51E2	Tumor-adjacent Normal
+FMO2	Tumor-adjacent Normal
+MXRA7	Tumor-adjacent Normal
+MPDZ	Tumor-adjacent Normal
+MAP2	Tumor-adjacent Normal
+FXYD1	Tumor-adjacent Normal
+DHX58	Tumor-adjacent Normal
+GPRASP1	Tumor-adjacent Normal
+RERG	Tumor-adjacent Normal
+ZCCHC24	Tumor-adjacent Normal
+CD109	Tumor-adjacent Normal
+HBA1	Tumor-adjacent Normal
+HBA2	Tumor-adjacent Normal
+HMP19	Tumor-adjacent Normal
+GUCY1A3	Tumor-adjacent Normal
+GLI3	Tumor-adjacent Normal
+RBPMS2	Tumor-adjacent Normal
+MFAP4	Tumor-adjacent Normal
+CXCL12	Tumor-adjacent Normal
+DIP2C	Tumor-adjacent Normal
+DNAJC6	Tumor-adjacent Normal
+FRY	Tumor-adjacent Normal
+MRAS	Tumor-adjacent Normal
+PRICKLE2	Tumor-adjacent Normal
+GHR	Tumor-adjacent Normal
+TUBB2B	Tumor-adjacent Normal
+CDH19	Tumor-adjacent Normal
+OLFML2A	Tumor-adjacent Normal
+WASF3	Tumor-adjacent Normal
+CHRNA3	Tumor-adjacent Normal
+NDRG4	Tumor-adjacent Normal
+KLF7	Tumor-adjacent Normal
+SPOCK1	Tumor-adjacent Normal
+INHBB	Tumor-adjacent Normal
+PEG3	Tumor-adjacent Normal
+ACTG2	Tumor-adjacent Normal
+EHD2	Tumor-adjacent Normal
+PRKCDBP	Tumor-adjacent Normal
+MEIS1	Tumor-adjacent Normal
+TMEM255A	Tumor-adjacent Normal
+AMOTL1	Tumor-adjacent Normal
+SLC12A4	Tumor-adjacent Normal
+TPM2	Tumor-adjacent Normal
+ASPN	Tumor-adjacent Normal
+HERC6	Tumor-adjacent Normal
+PGM5	Tumor-adjacent Normal
+TRIM22	Tumor-adjacent Normal
+BHLHE41	Tumor-adjacent Normal
+CDO1	Tumor-adjacent Normal
+ANGPTL1	Tumor-adjacent Normal
+RSPO2	Tumor-adjacent Normal
+NAP1L3	Tumor-adjacent Normal
+LIMCH1	Tumor-adjacent Normal
+EFS	Tumor-adjacent Normal
+IFI6	Tumor-adjacent Normal
+GALNT15	Tumor-adjacent Normal
+C20orf194	Tumor-adjacent Normal
+PTGS2	Tumor-adjacent Normal
+ITGA7	Tumor-adjacent Normal
+SOBP	Tumor-adjacent Normal
+AKAP2	Tumor-adjacent Normal
+PALM2-AKAP2	Tumor-adjacent Normal
+RASL12	Tumor-adjacent Normal
+AHNAK2	Tumor-adjacent Normal
+USP18	Tumor-adjacent Normal
+GFRA1	Tumor-adjacent Normal
+TSPYL5	Tumor-adjacent Normal
+SMARCA1	Tumor-adjacent Normal
+NEFL	Tumor-adjacent Normal
+CHN1	Tumor-adjacent Normal
+PTGDS	Tumor-adjacent Normal
+PIRT	Tumor-adjacent Normal
+SEMA3A	Tumor-adjacent Normal
+ISG15	Tumor-adjacent Normal
+IFI44L	Tumor-adjacent Normal
+FABP4	Tumor-adjacent Normal
+TSPAN4	Tumor-adjacent Normal
+ANO6	Tumor-adjacent Normal
+PARP9	Tumor-adjacent Normal
+IL17RD	Tumor-adjacent Normal
+FLNA	Tumor-adjacent Normal
+ATP2B4	Tumor-adjacent Normal
+SLC2A3	Tumor-adjacent Normal
+C4A	Tumor-adjacent Normal
+C4B	Tumor-adjacent Normal
+KIAA0408	Tumor-adjacent Normal
+SOGA3	Tumor-adjacent Normal
+PPP1R12B	Tumor-adjacent Normal
+MUC4	Tumor-adjacent Normal
+ABCC9	Tumor-adjacent Normal
+RAI2	Tumor-adjacent Normal
+FGF7	Tumor-adjacent Normal
+NRXN3	Tumor-adjacent Normal
+LRRFIP1	Tumor-adjacent Normal
+CYP1B1	Tumor-adjacent Normal
+TMOD2	Tumor-adjacent Normal
+CTSG	Tumor-adjacent Normal
+NCAM1	Tumor-adjacent Normal
+AGTR1	Tumor-adjacent Normal
+EML1	Tumor-adjacent Normal
+TCEAL7	Tumor-adjacent Normal
+MYH11	Tumor-adjacent Normal
+ZEB1	Tumor-adjacent Normal
+PRDM8	Tumor-adjacent Normal
+PALLD	Tumor-adjacent Normal
+FZD7	Tumor-adjacent Normal
+ZNF532	Tumor-adjacent Normal
+HLF	Tumor-adjacent Normal
+CLIP3	Tumor-adjacent Normal
+RAB34	Tumor-adjacent Normal
+SAMD9L	Tumor-adjacent Normal
+OAS2	Tumor-adjacent Normal
+RIMKLB	Tumor-adjacent Normal
+SERPINF1	Tumor-adjacent Normal
+PTBP2	Tumor-adjacent Normal
+ROR2	Tumor-adjacent Normal
+LPL	Tumor-adjacent Normal
+CNTN1	Tumor-adjacent Normal
+CCNL1	Tumor-adjacent Normal
+SMIM10	Tumor-adjacent Normal
+FERMT2	Tumor-adjacent Normal
+AREG	Tumor-adjacent Normal
+CALD1	Tumor-adjacent Normal
+KATNAL1	Tumor-adjacent Normal
+TRPC1	Tumor-adjacent Normal
+RBPMS	Tumor-adjacent Normal
+RUNX1T1	Tumor-adjacent Normal
+RGS5	Tumor-adjacent Normal
+SYNPO2	Tumor-adjacent Normal
+SAA2-SAA4	Tumor-adjacent Normal
+TNC	Tumor-adjacent Normal
+MYL9	Tumor-adjacent Normal
+DPYSL3	Tumor-adjacent Normal
+PHOX2B	Tumor-adjacent Normal
+DACT3	Tumor-adjacent Normal
+VGLL3	Tumor-adjacent Normal
+KCNN3	Tumor-adjacent Normal
+SYNM	Tumor-adjacent Normal
+HSPB8	Tumor-adjacent Normal
+PDLIM4	Tumor-adjacent Normal
+PHLDB2	Tumor-adjacent Normal
+REEP1	Tumor-adjacent Normal
+HBB	Tumor-adjacent Normal
+OAS3	Tumor-adjacent Normal
+MSRB3	Tumor-adjacent Normal
+SGCD	Tumor-adjacent Normal
+CLIP4	Tumor-adjacent Normal
+ATP1A2	Tumor-adjacent Normal
+TGFB1I1	Tumor-adjacent Normal
+OLFML2B	Tumor-adjacent Normal
+COL15A1	Tumor-adjacent Normal
+PHF20L1	Tumor-adjacent Normal
+PBX3	Tumor-adjacent Normal
+NTM	Tumor-adjacent Normal
+GPM6B	Tumor-adjacent Normal
+BNC2	Tumor-adjacent Normal
+FHL1	Tumor-adjacent Normal
+MTCL1	Tumor-adjacent Normal
+ADAMTSL3	Tumor-adjacent Normal
+JAZF1	Tumor-adjacent Normal
+SPP1	Tumor-adjacent Normal
+MRVI1	Tumor-adjacent Normal
+SAMD4A	Tumor-adjacent Normal
+RBM24	Tumor-adjacent Normal
+ZAK	Tumor-adjacent Normal
+PLP1	Tumor-adjacent Normal
+MYLK	Tumor-adjacent Normal
+LSAMP	Tumor-adjacent Normal
+SELM	Tumor-adjacent Normal
+CYS1	Tumor-adjacent Normal
+BCHE	Tumor-adjacent Normal
+NT5DC3	Tumor-adjacent Normal
+TCEAL2	Tumor-adjacent Normal
+CASQ2	Tumor-adjacent Normal
+MUC12	Tumor-adjacent Normal
+MYOCD	Tumor-adjacent Normal
+DTNA	Tumor-adjacent Normal
+DNER	Tumor-adjacent Normal
+PRDM6	Tumor-adjacent Normal
+RASSF8	Tumor-adjacent Normal
+STON1	Tumor-adjacent Normal
+CNN1	Tumor-adjacent Normal
+FIBIN	Tumor-adjacent Normal
+SORBS1	Tumor-adjacent Normal
+TSPAN18	Tumor-adjacent Normal
+MAMDC2	Tumor-adjacent Normal
+ADIPOQ	Tumor-adjacent Normal
+NPR3	Tumor-adjacent Normal
+TNS1	Tumor-adjacent Normal
+G0S2	Tumor-adjacent Normal
+NRXN1	Tumor-adjacent Normal
+NBEA	Tumor-adjacent Normal
+PDLIM3	Tumor-adjacent Normal
+S100B	Tumor-adjacent Normal
+WFDC1	Tumor-adjacent Normal
+KCNH2	Tumor-adjacent Normal
+IL8	Tumor-adjacent Normal
+SPG20	Tumor-adjacent Normal
+MRGPRF	Tumor-adjacent Normal
+PRNP	Tumor-adjacent Normal
+CPED1	Tumor-adjacent Normal
+CXCL11	Tumor-adjacent Normal
+LAMP3	Tumor-adjacent Normal
+LIMS2	Tumor-adjacent Normal
+DDX58	Tumor-adjacent Normal
+GLDN	Tumor-adjacent Normal
+KANK2	Tumor-adjacent Normal
+DES	Tumor-adjacent Normal
+GJC1	Tumor-adjacent Normal
+CXCL1	Tumor-adjacent Normal
+PLIN1	Tumor-adjacent Normal
+SORBS2	Tumor-adjacent Normal
+KCNMB1	Tumor-adjacent Normal
+EPHA3	Tumor-adjacent Normal
+CFL2	Tumor-adjacent Normal
+FLNC	Tumor-adjacent Normal
+ITGA5	Tumor-adjacent Normal
+B3GNT7	Tumor-adjacent Normal
+CCL20	Tumor-adjacent Normal
+PLEKHO1	Tumor-adjacent Normal
+TSPAN2	Tumor-adjacent Normal
+MEIS2	Tumor-adjacent Normal
+SAA1	Tumor-adjacent Normal
+ARHGEF25	Tumor-adjacent Normal
+TMEM200A	Tumor-adjacent Normal
+THRB	Tumor-adjacent Normal
+GPM6A	Tumor-adjacent Normal
+BAG2	Tumor-adjacent Normal
+PRAC1	Tumor-adjacent Normal
+FILIP1	Tumor-adjacent Normal
+CCL2	Tumor-adjacent Normal
+LMOD1	Tumor-adjacent Normal
+PI3	Tumor-adjacent Normal
+FAM46B	Tumor-adjacent Normal
+CPXM2	Tumor-adjacent Normal
+ST3GAL4	Tumor-adjacent Normal
+IQCJ-SCHIP1	Tumor-adjacent Normal
+SCHIP1	Tumor-adjacent Normal
+SNAP25	Tumor-adjacent Normal
+PRKAA2	Tumor-adjacent Normal
+SCNN1G	Tumor-adjacent Normal
+CAP2	Tumor-adjacent Normal
+CMPK2	Tumor-adjacent Normal
+HSPB7	Tumor-adjacent Normal
+LAYN	Tumor-adjacent Normal
+DNAJB5	Tumor-adjacent Normal
+HOXB13	Tumor-adjacent Normal
+RSAD2	Tumor-adjacent Normal
+FXYD6-FXYD2	Tumor-adjacent Normal
+FXYD6	Tumor-adjacent Normal
+FNDC1	Tumor-adjacent Normal
+C21orf88	Tumor-adjacent Normal
+SEPT6	Tumor-adjacent Normal
+VCL	Tumor-adjacent Normal
+LDB3	Tumor-adjacent Normal
+LMO3	Tumor-adjacent Normal
+MASP1	Tumor-adjacent Normal
+PDZRN4	Tumor-adjacent Normal
+SMTN	Tumor-adjacent Normal
+AKR1C1	Tumor-adjacent Normal
+THBS4	Tumor-adjacent Normal
+NPTX1	Tumor-adjacent Normal
+RAMP1	Tumor-adjacent Normal
+POPDC2	Tumor-adjacent Normal
+DUOX2	Tumor-adjacent Normal
+CXCL13	Tumor-adjacent Normal
+PCP4	Tumor-adjacent Normal
+CCL19	Tumor-adjacent Normal
+PENK	Tumor-adjacent Normal
+INSL5	Tumor-adjacent Normal
+SMPX	Tumor-adjacent Normal
+FDCSP	Tumor-adjacent Normal
 CEMIP	Tumor
 CLDN1	Tumor
 ETV4	Tumor

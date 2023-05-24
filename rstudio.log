@@ -1,0 +1,26 @@
+
+
+Open in browser:
+
+http://eris-node.ico.scs.local/compute-0-4/50372/	
+user:	46962313Q 
+passwd:	F1Fia7EI48xIlZvPvTfx
+
+
+When done using RStudio Server, click the Quit red button to get "R Session Ended" and terminate the job by executing the following command on the login node:
+
+      qdel 78705
+
+
+
+Open in browser:
+
+http://eris-node.ico.scs.local/compute-0-5/47124/	
+user:	46962313Q 
+passwd:	rkCn8CIgYnKjsT+ACVUe
+
+
+When done using RStudio Server, click the Quit red button to get "R Session Ended" and terminate the job by executing the following command on the login node:
+
+      qdel 78706
+

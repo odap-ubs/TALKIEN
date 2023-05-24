@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0089)http://eris-node.ico.scs.local/compute-0-4/46303/files/talkien/suppl/talkien_readme2.html -->
+<!-- saved from url=(0089)http://eris-node.ico.scs.local/compute-0-5/41198/files/talkien/suppl/talkien_readme3.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
@@ -147,7 +147,7 @@ pre code {
 
 
 
-<script type="text/javascript" src="./TALKIEN_readme2_files/MathJax.js.baixa"></script><style type="text/css">.MathJax_Hover_Frame {border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -khtml-border-radius: .25em; box-shadow: 0px 0px 15px #83A; -webkit-box-shadow: 0px 0px 15px #83A; -moz-box-shadow: 0px 0px 15px #83A; -khtml-box-shadow: 0px 0px 15px #83A; border: 1px solid #A6D ! important; display: inline-block; position: absolute}
+<script type="text/javascript" src="./TALKIEN_readme_files/MathJax.js.baixa"></script><style type="text/css">.MathJax_Hover_Frame {border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -khtml-border-radius: .25em; box-shadow: 0px 0px 15px #83A; -webkit-box-shadow: 0px 0px 15px #83A; -moz-box-shadow: 0px 0px 15px #83A; -khtml-box-shadow: 0px 0px 15px #83A; border: 1px solid #A6D ! important; display: inline-block; position: absolute}
 .MathJax_Menu_Button .MathJax_Hover_Arrow {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; -khtml-border-radius: 4px; font-family: 'Courier New',Courier; font-size: 9px; color: #F0F0F0}
 .MathJax_Menu_Button .MathJax_Hover_Arrow span {display: block; background-color: #AAA; border: 1px solid; border-radius: 3px; line-height: 0; padding: 4px}
 .MathJax_Hover_Arrow:hover {color: white!important; border: 2px solid #CCC!important}
@@ -296,7 +296,7 @@ text-align: justify}
 </ol>
 <p><strong>User options.</strong></p>
 <ol style="list-style-type: decimal">
-<li>Upload file <strong>Input file</strong>. Files must be uploaded with header and two columns wide with tab delimitaions. First column will contain genes/proteins, second column tissues/cell types/conditions.</li>
+<li>Upload file <strong>Input file</strong>. Files must be uploaded with header and two columns wide with tab delimitations. First column will contain genes/proteins, second column tissues/cell types/conditions.</li>
 </ol>
 <center>
 <div style="width:400px; height:100px">
@@ -308,7 +308,7 @@ text-align: justify}
 </div>
 </center>
 <ol start="2" style="list-style-type: decimal">
-<li>When TALKIEN identifies more than two different tissues/lists, all pairwise possibilities are computed by default. However, users can select any combination of pairwise interactions between input lists (up to 8 different lists). Unselection of all possibilities gives the same result than selecting all of them.</li>
+<li>When TALKIEN identifies more than two different tissues/lists, all pairwise possibilities are computed by default. However, users can select any combination of pairwise interactions between input lists (up to 8 different lists).</li>
 </ol>
 <center>
 <div style="width:800px; height:500x">
@@ -403,6 +403,12 @@ Users can manually change the restriction of this filtering.
 <div id="network-interactions-tab" class="section level5">
 <h5>NETWORK INTERACTIONS TAB</h5>
 <p>For each pair of connected nodes, tissue/cell type of origin, and protein type (ligand, receptor, or downstream) are displayed.</p>
+<p>Also a cell-cell interaction analysis is displayed:</p>
+<ul>
+<li>Cell-Cell Interaction analysis: In this table is shown the probability of finding a number of interactions between two conditions equal or greater than the observed in the input data. P-values came from permutation tests. Counts are the observed interactions.</li>
+<li>Cell-Cell Communication plot: Network representation of the overall Cell-Cell communication. Nodes are the different conditions, and edges the interactions between them. Interactions are splitted into ingoing and outgoing so that the sum is equal to the observed interactions in the table above.</li>
+</ul>
+<p>Please note that permutation tests are time consuming and computed everytime an input list is loaded.</p>
 <hr>
 </div>
 <div id="network-parameters-tab" class="section level5">

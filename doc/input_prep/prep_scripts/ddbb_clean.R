@@ -16,12 +16,12 @@ igraphGen <- function(net, labs = idResource) {
 }
 
 # setting dest files
-cellChat <- "prep_data/CellChatDB.rda"
-cellphone <- "prep_data/cellphoneDB_int.txt"
-cellphoneInfo <- "prep_data/cellphoneDB_prots.txt"
-icellnet <- "prep_data/icellnetDB.csv"
-ramilowski <- "prep_data/ramilowski_int.txt"
-ramilowskiLoc <- "prep_data/ramilowski_prots.txt"
+cellChat <- "doc/input_prep/prep_data/CellChatDB.rda"
+cellphone <- "doc/input_prep/prep_data/cellphoneDB_int.txt"
+cellphoneInfo <- "doc/input_prep/prep_data/cellphoneDB_prots.txt"
+icellnet <- "doc/input_prep/prep_data/icellnetDB.csv"
+ramilowski <- "doc/input_prep/prep_data/ramilowski_int.txt"
+ramilowskiLoc <- "doc/input_prep/prep_data/ramilowski_prots.txt"
 
 download.file("https://github.com/sqjin/CellChat/blob/master/data/CellChatDB.human.rda", cellChat)
 download.file("https://raw.githubusercontent.com/Teichlab/cellphonedb-data/master/data/sources/interaction_curated.csv", cellphone)
@@ -30,7 +30,7 @@ download.file("https://github.com/soumelis-lab/ICELLNET/blob/master/data/ICELLNE
 download.file("https://fantom.gsc.riken.jp/5/suppl/Ramilowski_et_al_2015/data/PairsLigRec.txt", ramilowski)
 download.file("https://fantom.gsc.riken.jp/5/suppl/Ramilowski_et_al_2015/data/SubcelLoc.Ages.Proteins.txt", ramilowskiLoc)
 
-load("app/data/geneAnnot.Rdata")
+load("utils/geneAnnot.Rdata")
 load(cellChat)
 cellphone <- read.delim(cellphone, header = T, sep = ",")
 cellphoneInfo <- read.delim(cellphoneInfo, header = T, sep = ",")

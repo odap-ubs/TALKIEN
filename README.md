@@ -88,6 +88,14 @@ After node selection, all of the Reactome pathway IDs in which the node is invol
 ##### NETWORK INTERACTIONS TAB
 For each pair of connected nodes, tissue/cell type of origin, and protein type (ligand, receptor, or downstream) are displayed.
 
+Also a cell-cell interaction analysis is displayed:
+
+ * Cell-Cell Interaction analysis: In this table is shown the probability of finding a number of interactions between two conditions equal or greater than the observed in the input data. P-values came from permutation tests. Counts are the observed interactions.
+ * Cell-Cell Communication plot: Network representation of the overall Cell-Cell communication. Nodes are the different conditions, and edges the interactions between them. Interactions are splitted into ingoing and outgoing so that the sum is equal to the observed interactions in the table above.
+ 
+ Please note that permutation tests are time consuming and computed everytime an input list is loaded.
+
+
 ***
  
 ##### NETWORK PARAMETERS TAB
