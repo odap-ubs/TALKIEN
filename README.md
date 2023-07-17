@@ -153,4 +153,7 @@ All results can be downloaded.
 
 Code freely available at:
 https://github.com/odap-ubs/talkien/
+
+Please cite:
+Moratalla-Navarro F, Moreno V, Sanz-Pamplona R. TALKIEN: crossTALK IntEraction Network. A web-based tool for deciphering molecular communication through ligand-receptor interactions. Mol Omics. 2023 Jul 5. doi: 10.1039/d3mo00049d.
 </p>
